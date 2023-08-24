@@ -1,0 +1,2 @@
+# ai-mi
+lab program 
